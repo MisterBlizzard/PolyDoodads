@@ -3,13 +3,14 @@
 	"id": "polydoodads",
 	"version": "${version}",
 	"name": "PolyDoodads",
-	"description": "Polymer mod that adds server-side trinkets-compatible items",
+	"description": "1.21.11 port of PolyDoodads, a Polymer mod that adds server-side trinkets-compatible items",
 	"authors": [
-		"yGlobalista"
+		"yGlobalista",
+		"Imaginalities"
 	],
 	"contact": {
-		"homepage": "https://github.com/globalista-dev",
-		"sources": "https://github.com/globalista-dev/PolyDoodads"
+		"homepage": "https://github.com/Imaginalities",
+		"sources": "https://github.com/Imaginalities/PolyDoodads"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/polydoodads/icon.png",

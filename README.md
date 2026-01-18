@@ -1,3 +1,8 @@
+This is an fork of **[PolyDoodads](https://github.com/globalista-dev/PolyDoodads)** by globalista-dev.
+
+Changes:
+- Ported from Minecraft 1.21.6 to 1.21.11
+
 ![PolyDoodads](https://cdn.modrinth.com/data/cached_images/c1ca0918ddac605086acaba8297f20ab60d00f9b.png)
 
 ## Features

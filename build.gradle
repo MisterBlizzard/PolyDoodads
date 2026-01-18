@@ -12,6 +12,12 @@ base {
 	archivesName = project.archives_base_name
 }
 
+java {
+	toolchain {
+		languageVersion = JavaLanguageVersion.of(21)
+	}
+}
+
 repositories {
 	maven { url = "https://maven.terraformersmc.com/" }
 	maven { url = "https://maven.nucleoid.xyz" }
@@ -51,7 +57,7 @@ dependencies {
 	//modImplementation include("eu.pb4:factorytools:0.7.0+1.21.6")
 
 	// Trinkets
-	modImplementation "eu.pb4.polyport:trinkets:${project.trinkets_version}"
+	modCompileOnly "eu.pb4.polyport:trinkets:${project.trinkets_version}"
 	
 }
 
